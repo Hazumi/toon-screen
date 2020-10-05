@@ -9,6 +9,14 @@ body {
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 
+.coming-soon-img {
+  display: block;
+  margin: 3em auto;
+  padding: 0 2em;
+  width: 100%;
+  max-width: 800px;
+}
+
 .grey {
   /* margin: 0 1em; */
   /* border: 1px solid #000; */
