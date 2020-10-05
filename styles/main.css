@@ -2,9 +2,17 @@ body {
   font-size: 16px;
 }
 
+.main {
+  background-image: url('../img/bg.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+
 /* SECTIONS */
 header {
-  margin: 1em 0;
+  margin: 0;
 }
 
 section {
